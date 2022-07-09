@@ -1,0 +1,11 @@
+{
+  "name": "rest-api-wallet",
+  "version": "1.0.0",
+  "description": "api to managment incomes and outcomes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rolando Oc",
+  "license": "ISC"
+}
